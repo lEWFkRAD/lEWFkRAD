@@ -1,7 +1,7 @@
 # Hi, I'm Jeff 
 
 Accountant who builds AI tools for real accounting work: reconciliations,
-document intake, and engagement management. My rule for every tool:
+document intake, and engagement management.
 
 ### Accounting tools
 - **[Hermes for Excel](https://github.com/lEWFkRAD/hermes-excel-sidecar)**: an AI chat pane inside Excel. It reads sheets for tie-outs and reconciliations, writes tables and formulas, re-checks what it wrote, and has Undo.
