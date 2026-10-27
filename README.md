@@ -1,6 +1,6 @@
-# Hi, I'm Jeff 
+# Hi
 
-Accountant who builds AI tools for real accounting work: reconciliations,
+Accountant who builds tools for accounting work: reconciliations,
 document intake, and engagement management.
 
 ### Accounting tools
