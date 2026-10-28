@@ -1,3 +1,12 @@
+<!-- project-home:start -->
+![lEWFkRAD concept banner](site/hero.png)
+
+**[lEWFkRAD project homepage](https://lewfkrad.github.io/lEWFkRAD/)** · [Documentation](https://github.com/lEWFkRAD)
+
+I’m an accountant building tools for reconciliations, document intake, and engagement management — with a few experiments beyond the desk.
+
+<!-- project-home:end -->
+
 # Hi
 
 Accountant who builds tools for accounting work: reconciliations,
